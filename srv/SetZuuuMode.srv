@@ -1,0 +1,6 @@
+# Mode among : DRIVE, BRAKE, FREE_WHEEL
+string mode
+
+---
+# True if the mode was successfully changed
+bool success
