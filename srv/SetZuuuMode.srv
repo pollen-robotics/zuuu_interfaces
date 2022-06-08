@@ -1,4 +1,4 @@
-# Mode among : DRIVE, BRAKE, FREE_WHEEL
+# Mode among : CMD_VEL, BRAKE, FREE_WHEEL, SPEED, EMERGENCY_STOP
 string mode
 
 ---
