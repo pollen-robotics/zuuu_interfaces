@@ -27,6 +27,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/SetZuuuMode.srv"
   "srv/ResetOdometry.srv"
   "srv/GetOdometry.srv"
+  "srv/SetSpeed.srv"
 )
 
 if(BUILD_TESTING)
