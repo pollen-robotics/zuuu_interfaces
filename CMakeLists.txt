@@ -31,7 +31,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/GoToXYTheta.srv"
   "srv/DistanceToGoal.srv"
   "srv/IsGoToFinished.srv"
-
+)
 if(BUILD_TESTING)
   find_package(ament_lint_auto REQUIRED)
   # the following line skips the linter which checks for copyrights
