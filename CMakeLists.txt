@@ -29,6 +29,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/GetOdometry.srv"
   "srv/SetSpeed.srv"
   "srv/GoToXYTheta.srv"
+  "srv/DistanceToGoal.srv"
 )
 
 if(BUILD_TESTING)
