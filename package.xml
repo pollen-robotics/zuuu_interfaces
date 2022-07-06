@@ -3,9 +3,9 @@
 <package format="3">
   <name>zuuu_interfaces</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="remifabre1800@gmail.com">remi</maintainer>
-  <license>TODO: License declaration</license>
+  <description>ROS2 service and message definitions for Zuuu</description>
+  <maintainer email="contact@pollen-robotics.com">Pollen Robotics</maintainer>
+  <license>Apache-2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
