@@ -1,4 +1,4 @@
-# Reachy 2021 messages
+# Zuuu ROS2 services
 
 Custom ROS2 services used by Reachy's mobile base ROS2 [HAL](https://github.com/pollen-robotics/zuuu_hal/) and [SDK Server](https://github.com/pollen-robotics/mobile_base_sdk_server).
 
